@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Jayasinghe</h1>
+
+<img alt="Coder GIF" height="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <h3 align="center">A passionate QA Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshu43&label=Profile%20views&color=0e75b6&style=flat" alt="eshu43" /> </p>
