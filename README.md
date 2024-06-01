@@ -72,5 +72,6 @@
 <p align="center" ><img  src = "https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width = 180px>  <img  src = "https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width = 200px> </p>
 
 
-
+<!--horizontal divider(gradiant)-->
+<p align="center" ><img  src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width = 900px></p>
 
