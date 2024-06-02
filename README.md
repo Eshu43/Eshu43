@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eshan Jayasinghe</h1>
+
+
+<h3 align="center">
+  
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=SimSun&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Everyone.&hearts;++;Welcome+to+My+Profile;I'm+Eshan+Jayasinghe;Businessmen,;Entrepreneur,;Software+QA+Engineer,"></a>
@@ -28,7 +32,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3> <p align="center" ><img  src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;" width = 900px></p>
 <p align="center">
 <a href="https://twitter.com/eshu43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshu43" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/eshan-jayasinghe-8728b5244/?originalSubdomain=lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/eshan-jayasinghe-8728b5244" height="30" width="40" /></a>
@@ -74,4 +78,5 @@
 
 <!--horizontal divider(gradiant)-->
 <p align="center" ><img  src = "https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width = 900px></p>
+
 
