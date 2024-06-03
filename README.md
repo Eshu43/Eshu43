@@ -53,7 +53,10 @@
 <br>
 
 
-<h3 align="center">My Statistics:</h3>
+
+<h3 align="center">My Statistics :  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="33"></h3>
+
+
 <p align="center">
 <table align="center">
 <tr border="none">
