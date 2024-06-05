@@ -23,7 +23,7 @@
 
 <p align="center"> <a href="https://twitter.com/eshu43" target="blank"><img src="https://img.shields.io/twitter/follow/eshu43?logo=twitter&style=for-the-badge" alt="eshu43" /></a> </p>
 
-<h3 align="center">- 🔭 I’m currently working on ***Invictus Business Solutions***</h3>
+<h3 align="center">- 🔭 I’m currently working on Invictus Business Solutions</h3>
 
 <h3 align="center">- 🤝 I am an undergraduate student of **IIC University of Technology** </h3>
 
