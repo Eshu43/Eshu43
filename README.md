@@ -27,7 +27,7 @@
 
 <h3 align="center">- 🤝 I am an undergraduate student of IIC University of Technology </h3>
 
-<h3 align="center">- 📫 How to reach me eshanumayanaga43@gmail.com and *+94714949257* </h3>
+<h3 align="center">- 📫 How to reach me eshanumayanaga43@gmail.com and +94714949257 </h3>
 <br>
 
 ---
