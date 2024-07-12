@@ -15,7 +15,7 @@
 
 <p align="center" ><img  src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width = 300px></p>
 
-<h3 align="center">A passionate QA Engineer.</h3>
+<h3 align="center">A passionate QA Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshu43&label=Profile%20views&color=0e75b6&style=flat" alt="eshu43" /> </p>
 
